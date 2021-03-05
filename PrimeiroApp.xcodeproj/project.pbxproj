@@ -13,6 +13,7 @@
 		DF9A47B125F1BFE100C993E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF9A47AF25F1BFE100C993E9 /* Main.storyboard */; };
 		DF9A47B325F1BFE200C993E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF9A47B225F1BFE200C993E9 /* Assets.xcassets */; };
 		DF9A47B625F1BFE200C993E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF9A47B425F1BFE200C993E9 /* LaunchScreen.storyboard */; };
+		DF9A47BF25F1CF0100C993E9 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = DF9A47BE25F1CF0100C993E9 /* cachorro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DF9A47B225F1BFE200C993E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF9A47B525F1BFE200C993E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF9A47B725F1BFE200C993E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF9A47BE25F1CF0100C993E9 /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachorro.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		DF9A47A825F1BFE100C993E9 /* PrimeiroApp */ = {
 			isa = PBXGroup;
 			children = (
+				DF9A47BE25F1CF0100C993E9 /* cachorro.png */,
 				DF9A47A925F1BFE100C993E9 /* AppDelegate.swift */,
 				DF9A47AB25F1BFE100C993E9 /* SceneDelegate.swift */,
 				DF9A47AD25F1BFE100C993E9 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF9A47BF25F1CF0100C993E9 /* cachorro.png in Resources */,
 				DF9A47B625F1BFE200C993E9 /* LaunchScreen.storyboard in Resources */,
 				DF9A47B325F1BFE200C993E9 /* Assets.xcassets in Resources */,
 				DF9A47B125F1BFE100C993E9 /* Main.storyboard in Resources */,
